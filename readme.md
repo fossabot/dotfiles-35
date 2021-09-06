@@ -1,3 +1,7 @@
-# :computer: My Dotfiles
+# :computer: my dotfiles
 
-This my personal config so don't expect a guide 
+minimalist and simple *chefs kiss*
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+**NOTE: DON'T EXPECT A GUIDE FOR INSTALLATION**
