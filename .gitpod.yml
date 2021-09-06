@@ -1,5 +1,2 @@
 tasks:
-  - init: wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
-    command: sh install.sh \
-             ln -sf /workspace/dotfiles/zsh/.zshrc ~/.zshrc \
-             rm install.sh
+  - init: sh init.sh
