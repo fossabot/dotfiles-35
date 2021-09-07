@@ -4,7 +4,7 @@ ZSH_THEME="agnoster"
 
 DISABLE_AUTO_UPDATE="true"
 
-plugins=(git)
+plugins=(git, zsh-wakatime)
 
 source $ZSH/oh-my-zsh.sh
 
