@@ -32,9 +32,9 @@ sudo apt-get install zsh
 
 :warning: Only run the scripts if you know what you're doing :warning:
 
-Run ```sh init.sh```. After that ```sh sync.sh``` and if you want the same vsc extensions as mine run ```sh vsc.zsh```
+Run ```sh init.sh```. After that ```sh sync.sh``` and if you want the same vsc extensions as mine; run ```sh vsc.zsh```
 
 
 ## Finishing Up
 
-Get some fried chicken and feel happy about your life and your dotfiles
+Get some fried chicken and feel happy about your life and your dotfiles :tada:
