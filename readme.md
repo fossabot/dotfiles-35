@@ -1,6 +1,7 @@
 <div align="center">
   <h1>my dotfiles :computer:</h1>
   <h3>minimalistic and simple. they just werk <h3>
+  <img src="https://i.imgur.com/gbj47sk.gif" width="980px" alt="dotfiles">
 </div>
 <div align="center">
   <img src="https://img.shields.io/github/license/tnb24/dotfiles" alt="license" />
@@ -32,7 +33,7 @@ sudo apt-get install zsh
 
 :warning: Only run the scripts if you know what you're doing :warning:
 
-Run ```sh init.sh```. After that ```sh sync.sh``` and if you want the same vsc extensions as mine; run ```sh vsc.zsh```
+Run ```sh scripts/init.sh```. After that ```sh scripts/sync.sh``` and if you want the same vsc extensions as mine; run ```sh scripts/vsc.zsh```
 
 
 ## Finishing Up
