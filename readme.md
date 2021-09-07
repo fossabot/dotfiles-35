@@ -7,7 +7,12 @@
   <img src="https://img.shields.io/github/stars/tnb24/dotfiles" alt="stars" />
 </div>
     
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftnb24%2Fdotfiles.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftnb24%2Fdotfiles?ref=badge_large)
+
 ## Getting Started
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftnb24%2Fdotfiles.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftnb24%2Fdotfiles?ref=badge_shield)
+
 
 ### Font
 
