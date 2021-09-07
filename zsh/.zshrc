@@ -9,5 +9,5 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 prompt_context() {
-    prompt_segment black default "tnb@machine"
+    prompt_segment black default "tnb@mars"
 }
