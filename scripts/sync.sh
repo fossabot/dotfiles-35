@@ -1,1 +1,1 @@
-ln -sf /workspace/dotfiles/zsh/.zshrc ~/.zshrc && rm install.sh
+ln -sf /workspace/dotfiles/zsh/.zshrc $HOME/.zshrc && rm install.sh
