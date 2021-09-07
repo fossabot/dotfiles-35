@@ -1,1 +1,2 @@
-ln -sf zsh/.zshrc $HOME/.zshrc && rm install.sh
+ln -sf ~/dotfiles/zsh/.zshrc $HOME/.zshrc && rm install.sh
+
